@@ -61,7 +61,7 @@ The models were trained on a dataset of 5 MB with a batch size of 16 and 10 epoc
 
 ### Future Work
 
-Future work includes improving the accuracy and performance of the T5 model through fine-tuning and developing algorithms to parse context more efficiently.
+Future work includes improving the accuracy and performance of the model through fine-tuning and developing algorithms to parse context more efficiently.
 
 ## References
 
